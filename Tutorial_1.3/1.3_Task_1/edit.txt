@@ -1,0 +1,1 @@
+If the rect command is after the text the text is not visible
