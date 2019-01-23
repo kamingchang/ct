@@ -1,0 +1,1 @@
+scaled length of x and y for the createCanvas function by 2 to 1400,1000

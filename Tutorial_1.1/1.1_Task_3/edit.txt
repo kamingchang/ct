@@ -1,0 +1,1 @@
+Made rectangles grow in size
