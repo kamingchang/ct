@@ -1,0 +1,1 @@
+inversed colors of the retangle borders

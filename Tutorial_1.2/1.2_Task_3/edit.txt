@@ -1,0 +1,1 @@
+made two rectangles 10 pixels apart and set the strokeWeight to 10
